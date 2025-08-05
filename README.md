@@ -64,7 +64,7 @@ This repository provides a comprehensive collection of **advanced RAG (Retrieval
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rag-techniques-handbook.git
+git clone https://github.com/sosanzma/rag-techniques-handbook.git
 cd rag-techniques-handbook
 
 # Install dependencies
@@ -119,32 +119,7 @@ rag-techniques-handbook/
 └── 🗺️ README.md                       # This file
 ```
 
-## Key Features
 
-### 🔗 Seamless Documentation-Code Integration
-Every documentation file is directly connected to its implementation:
-- **Quick Start sections** with copy-paste ready code
-- **Method references** with line numbers
-- **Configuration guides** mapped to actual parameters
-- **Source code exploration** for deeper understanding
-
-### ⚙️ Production-Ready Implementations
-- **Error Handling**: Comprehensive exception handling and logging
-- **Async Support**: Non-blocking operations for better performance
-- **Configuration Management**: Structured configuration with dataclasses
-- **Performance Optimization**: Built-in caching and batch processing
-
-### 📊 Comprehensive Evaluation
-- **Multiple Frameworks**: Both LlamaIndex and RAGAS metrics
-- **Retrieval Metrics**: MRR, Hit Rate, Context Precision/Recall
-- **Generation Quality**: Faithfulness, Relevancy, Harmfulness
-- **Automated Evaluation**: Batch processing and async operations
-
-### 🎯 Multiple Use Cases Supported
-- **Research**: Comprehensive evaluation and comparison
-- **Development**: Quick prototyping with production-ready code
-- **Production**: Monitoring and performance tracking
-- **Education**: Learning advanced RAG techniques
 
 ## Prerequisites
 
@@ -187,13 +162,6 @@ We welcome contributions! The repository is designed for easy extension:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- **LlamaIndex team** for the excellent RAG framework
-- **RAGAS team** for comprehensive evaluation metrics
-- **ActiveLoop** for DeepLake vector database
-- **OpenAI** for LLM and embedding services
-- **Cohere** for reranking capabilities
 
 ---
 
